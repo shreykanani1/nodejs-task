@@ -1,1 +1,10 @@
-[{"username":"shrey","password":"kanani","notes":["My first note","my second note","my second note"]},{"username":"henish","password":"patadiya","notes":["henish first note","henish third note","henish second note"]},{"username":"rudra","password":"kanani","notes":["rudra 1","rudra 2"]},{"username":"raj","password":"kapuriya","notes":["123","456"]}]
+[
+    {
+        "username": "shrey",
+        "password": "$2b$10$YQHpCcv57JLzBCSu5mPozeVu9ekEna.lSfoPb6xUGXWsJXGmEQHoW",
+        "notes": [
+            "shrey note 1"
+        ],
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNocmV5IiwiaWF0IjoxNjI5NzIzOTc1fQ.qzZ6Fj9lcxc7L9UTBn2CF9tCH1vKxZJB1fFhjne7efA"
+    }
+]
